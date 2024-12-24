@@ -1,6 +1,7 @@
 /*
 * Written by CIS 1200 Staff
 */
+package org.cis1200;
 
 import javax.swing.*;
 
