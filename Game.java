@@ -1,4 +1,6 @@
-package org.cis1200;
+/*
+* Written by CIS 1200 Staff
+*/
 
 import javax.swing.*;
 
